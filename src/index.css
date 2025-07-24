@@ -1,0 +1,14 @@
+#root {
+  display: flex;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #F7F8FA;
+  color: #1A1A1A;
+  margin: 0;
+  padding: 0;
+}
