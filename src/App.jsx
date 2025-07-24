@@ -4,7 +4,7 @@ import { Layout } from "./Components/Layout/Layout";
 import { Cabinet } from "./Pages/Cabinet/Cabinet";
 import { PhoneBook } from "./Pages/PhoneBook/PhoneBook";
 import { Register } from "./Pages/Register/Register";
-import { Login } from "./Pages/Login/login";
+import { Login } from "./Pages/Login/Login";
 import { PrivetRoute } from "./Components/CustomRoute/PrivetRoute";
 import { RestrictedRoute } from "./Components/CustomRoute/ResrictedRoute";
 import { useDispatch } from "react-redux";
